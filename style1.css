@@ -1,0 +1,41 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+}
+
+h4{
+    text-align: center;
+    color: darkred;
+    font-style: oblique;
+    background-color: indigo;
+}
+h5{
+color: darkviolet;
+font-size: x-large;
+}
+.c{
+    text-align: right;
+    text-decoration: wavy;
+    color: rgba(21, 194, 233, 0.839);
+    font-style: oblique
+    
+};
+
+h6{
+    text-align: right;
+    font-size: larger;
+    color: rgba(255, 0, 38, 0.541);
+}
+.d{
+    text-align: right;
+    color: rgb(143, 24, 228);
+}
+h3{
+    text-align: right;
+    color: rgba(0, 6, 179, 0.816);
+    font-style: oblique;
+}
+.i{
+    width: 150px;
+    height: 150px;
+}
